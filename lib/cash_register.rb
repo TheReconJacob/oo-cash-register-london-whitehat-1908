@@ -13,3 +13,4 @@ class CashRegister
     quantity.times do
       items << title
     end
+    self.
