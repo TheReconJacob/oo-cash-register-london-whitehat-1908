@@ -9,4 +9,4 @@ class CashRegister
   end
   
   def add_item(title, amount, quality=1)
-    self.total +=
+    self.total += amount * quality
